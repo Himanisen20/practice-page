@@ -406,4 +406,11 @@ font-size:medium;
 .home .home-content{
     margin-top: 15%;
 }
+
+}
+@media only screen and (max-width:380px) {
+   .head{
+    gap: 0%;
+}
+
 }
